@@ -1,6 +1,6 @@
 # TimeTales - Historical Events Explorer
 
-![TimeTales Screenshot](./screenshot.png) <!-- Add your screenshot here -->
+
 
 TimeTales is a modern web application that lets you explore historical events that happened on any day of the year. Discover fascinating moments from history with a clean, intuitive interface.
 
@@ -30,4 +30,4 @@ TimeTales is a modern web application that lets you explore historical events th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/timetales.git
+   git clone https://github.com/Kimmy-hub/TimeTales/tree/master
