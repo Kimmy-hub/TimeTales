@@ -30,4 +30,4 @@ TimeTales is a modern web application that lets you explore historical events th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kimmy-hub/TimeTales/tree/master
+   git clone https://github.com/Kimmy-hub/TimeTales
